@@ -38,13 +38,13 @@ Me chamo Clara Dias, tenho 19 anos e sou natural de Esperança-PB. Concluí o cu
     alt="GitHub Stats" 
     height="180" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=claradiass&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=claradiass&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
     align="left" 
     alt="Top Langs" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=claradiass&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=claradiass&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
